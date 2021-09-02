@@ -1,9 +1,7 @@
 apiVersion: v1
 entries:
   server:
-  - apiVersion: v1
-    appVersion: "6.2"
-    created: "2021-09-02T12:38:21.314305647+09:00"
+  - created: "2021-09-02T12:38:21.314305647+09:00"
     digest: e48c2a5c94b204fc61ed4de585fac86ae2282b1a8779a9968aa19e56ed87f845
     name: server
     urls:
